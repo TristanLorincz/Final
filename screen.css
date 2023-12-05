@@ -1,1 +1,12 @@
 /* Add screen styles below */
+
+
+
+
+
+
+.masthead{
+height: 250px;
+border-radius: 20px;
+background: no-repeat bottom / cover url('images/Computer\ image.jpg');
+}
