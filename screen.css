@@ -1,12 +1,27 @@
 /* Add screen styles below */
 
+body {
 
+    background: #aaa;
+    font-family: Helvetica, sans-serif;
 
-
-
-
-.masthead{
-height: 250px;
-border-radius: 20px;
-background: no-repeat bottom / cover url('images/Computer\ image.jpg');
 }
+
+.mid {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+  }
+.masthead{
+height: 225px;
+width: 325px;
+border-radius: 20px;
+background: no-repeat bottom / cover url('images/rocks.png');
+}
+
+.mastheads{
+    height: 225px;
+    width: 325px;
+    border-radius: 20px;
+    background: no-repeat bottom / cover url('images/coast.png');
+    }
