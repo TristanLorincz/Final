@@ -14,7 +14,7 @@ h1{
     font-size: 2em;
     padding-left: 50px;
     background-position: center left;
-
+    
 }
 main{
     margin: 0 auto;
@@ -94,4 +94,12 @@ margin-top: 25px;
     }
     header{
         margin-bottom: 25px;
+
+
+        flex-grow: 1;
+flex-basis: 0;
+background: lightgrey;
+padding: 30px;
+border-radius: 25px;
+margin-top: 25px;
     }
